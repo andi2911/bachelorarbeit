@@ -1,0 +1,375 @@
+identifier;user;system;elapsed;CPU;other Stats;other Stats;other Stats;other Stats
+smteta_varSubtraction_001.st;0.86;0.04;0:00.48;187%;(0avgtext+0avgdata 85164maxresident)k;0inputs+72outputs;(0major+12633minor)pagefaults;0swaps
+smteta_varSubtraction_002.st;0.77;0.03;0:00.42;189%;(0avgtext+0avgdata 82728maxresident)k;0inputs+72outputs;(0major+11652minor)pagefaults;0swaps
+smteta_varSubtraction_003.st;0.82;0.02;0:00.43;193%;(0avgtext+0avgdata 82796maxresident)k;0inputs+72outputs;(0major+11292minor)pagefaults;0swaps
+smteta_varSubtraction_004.st;0.85;0.04;0:00.44;201%;(0avgtext+0avgdata 85432maxresident)k;0inputs+72outputs;(0major+12098minor)pagefaults;0swaps
+smteta_varSubtraction_005.st;0.87;0.06;0:00.47;196%;(0avgtext+0avgdata 83652maxresident)k;0inputs+72outputs;(0major+12715minor)pagefaults;0swaps
+smteta_varSubtraction_006.st;0.77;0.04;0:00.43;186%;(0avgtext+0avgdata 81140maxresident)k;0inputs+72outputs;(0major+11390minor)pagefaults;0swaps
+smteta_varSubtraction_007.st;0.85;0.04;0:00.44;199%;(0avgtext+0avgdata 83136maxresident)k;0inputs+72outputs;(0major+11756minor)pagefaults;0swaps
+smteta_varSubtraction_008.st;0.82;0.05;0:00.46;189%;(0avgtext+0avgdata 82756maxresident)k;0inputs+72outputs;(0major+11696minor)pagefaults;0swaps
+smteta_varSubtraction_009.st;0.86;0.03;0:00.45;198%;(0avgtext+0avgdata 82768maxresident)k;0inputs+72outputs;(0major+12434minor)pagefaults;0swaps
+smteta_varSubtraction_010.st;0.83;0.07;0:00.45;198%;(0avgtext+0avgdata 81132maxresident)k;0inputs+80outputs;(0major+11919minor)pagefaults;0swaps
+smteta_varSubtraction_011.st;0.81;0.05;0:00.43;197%;(0avgtext+0avgdata 80376maxresident)k;0inputs+80outputs;(0major+11660minor)pagefaults;0swaps
+smteta_varSubtraction_012.st;0.85;0.04;0:00.45;198%;(0avgtext+0avgdata 85400maxresident)k;0inputs+80outputs;(0major+11844minor)pagefaults;0swaps
+smteta_varSubtraction_013.st;0.91;0.03;0:00.54;175%;(0avgtext+0avgdata 83424maxresident)k;0inputs+80outputs;(0major+11966minor)pagefaults;0swaps
+smteta_varSubtraction_014.st;0.91;0.05;0:00.46;208%;(0avgtext+0avgdata 84628maxresident)k;0inputs+80outputs;(0major+11999minor)pagefaults;0swaps
+smteta_varSubtraction_015.st;0.86;0.06;0:00.49;188%;(0avgtext+0avgdata 80968maxresident)k;0inputs+80outputs;(0major+11767minor)pagefaults;0swaps
+smteta_varSubtraction_016.st;0.83;0.09;0:00.45;205%;(0avgtext+0avgdata 84916maxresident)k;0inputs+80outputs;(0major+12295minor)pagefaults;0swaps
+smteta_varSubtraction_017.st;0.88;0.06;0:00.48;198%;(0avgtext+0avgdata 85608maxresident)k;0inputs+80outputs;(0major+11566minor)pagefaults;0swaps
+smteta_varSubtraction_018.st;0.83;0.06;0:00.46;192%;(0avgtext+0avgdata 82676maxresident)k;0inputs+80outputs;(0major+11865minor)pagefaults;0swaps
+smteta_varSubtraction_019.st;0.86;0.03;0:00.45;194%;(0avgtext+0avgdata 80684maxresident)k;0inputs+112outputs;(0major+11238minor)pagefaults;0swaps
+smteta_varSubtraction_020.st;0.94;0.04;0:00.47;208%;(0avgtext+0avgdata 82320maxresident)k;0inputs+80outputs;(0major+11908minor)pagefaults;0swaps
+smteta_varSubtraction_021.st;0.94;0.06;0:00.46;214%;(0avgtext+0avgdata 83348maxresident)k;0inputs+80outputs;(0major+12632minor)pagefaults;0swaps
+smteta_varSubtraction_022.st;0.88;0.07;0:00.46;205%;(0avgtext+0avgdata 81408maxresident)k;0inputs+80outputs;(0major+11949minor)pagefaults;0swaps
+smteta_varSubtraction_023.st;0.97;0.03;0:00.47;212%;(0avgtext+0avgdata 83560maxresident)k;0inputs+80outputs;(0major+12733minor)pagefaults;0swaps
+smteta_varSubtraction_024.st;0.92;0.05;0:00.47;207%;(0avgtext+0avgdata 84276maxresident)k;0inputs+88outputs;(0major+11656minor)pagefaults;0swaps
+smteta_varSubtraction_025.st;0.91;0.02;0:00.46;201%;(0avgtext+0avgdata 80708maxresident)k;0inputs+88outputs;(0major+11343minor)pagefaults;0swaps
+smteta_varSubtraction_026.st;0.91;0.03;0:00.46;206%;(0avgtext+0avgdata 84996maxresident)k;0inputs+88outputs;(0major+12273minor)pagefaults;0swaps
+smteta_varSubtraction_027.st;0.92;0.03;0:00.47;201%;(0avgtext+0avgdata 83228maxresident)k;0inputs+88outputs;(0major+11900minor)pagefaults;0swaps
+smteta_varSubtraction_028.st;0.91;0.06;0:00.46;210%;(0avgtext+0avgdata 83508maxresident)k;0inputs+88outputs;(0major+11461minor)pagefaults;0swaps
+smteta_varSubtraction_029.st;0.97;0.05;0:00.47;219%;(0avgtext+0avgdata 83568maxresident)k;0inputs+88outputs;(0major+12121minor)pagefaults;0swaps
+smteta_varSubtraction_030.st;0.95;0.05;0:00.48;206%;(0avgtext+0avgdata 82888maxresident)k;0inputs+120outputs;(0major+12423minor)pagefaults;0swaps
+smteta_varSubtraction_031.st;0.98;0.06;0:00.50;206%;(0avgtext+0avgdata 86284maxresident)k;0inputs+88outputs;(0major+11903minor)pagefaults;0swaps
+smteta_varSubtraction_032.st;0.97;0.06;0:00.48;213%;(0avgtext+0avgdata 87744maxresident)k;0inputs+88outputs;(0major+12490minor)pagefaults;0swaps
+smteta_varSubtraction_033.st;1.01;0.06;0:00.48;221%;(0avgtext+0avgdata 86448maxresident)k;0inputs+88outputs;(0major+12512minor)pagefaults;0swaps
+smteta_varSubtraction_034.st;1.03;0.04;0:00.49;219%;(0avgtext+0avgdata 88616maxresident)k;0inputs+88outputs;(0major+12961minor)pagefaults;0swaps
+smteta_varSubtraction_035.st;0.98;0.08;0:00.48;218%;(0avgtext+0avgdata 86548maxresident)k;0inputs+88outputs;(0major+12722minor)pagefaults;0swaps
+smteta_varSubtraction_036.st;0.98;0.06;0:00.48;216%;(0avgtext+0avgdata 93740maxresident)k;0inputs+88outputs;(0major+15636minor)pagefaults;0swaps
+smteta_varSubtraction_037.st;1.09;0.04;0:00.49;233%;(0avgtext+0avgdata 93124maxresident)k;0inputs+96outputs;(0major+15522minor)pagefaults;0swaps
+smteta_varSubtraction_038.st;1.05;0.04;0:00.48;226%;(0avgtext+0avgdata 96800maxresident)k;0inputs+96outputs;(0major+14825minor)pagefaults;0swaps
+smteta_varSubtraction_039.st;1.05;0.05;0:00.49;226%;(0avgtext+0avgdata 93784maxresident)k;0inputs+96outputs;(0major+14841minor)pagefaults;0swaps
+smteta_varSubtraction_040.st;1.07;0.05;0:00.49;226%;(0avgtext+0avgdata 86644maxresident)k;0inputs+96outputs;(0major+15399minor)pagefaults;0swaps
+smteta_varSubtraction_041.st;0.99;0.04;0:00.48;215%;(0avgtext+0avgdata 86568maxresident)k;0inputs+160outputs;(0major+11587minor)pagefaults;0swaps
+smteta_varSubtraction_042.st;1.06;0.05;0:00.49;228%;(0avgtext+0avgdata 92464maxresident)k;0inputs+96outputs;(0major+14901minor)pagefaults;0swaps
+smteta_varSubtraction_043.st;1.12;0.05;0:00.49;238%;(0avgtext+0avgdata 105452maxresident)k;0inputs+96outputs;(0major+17689minor)pagefaults;0swaps
+smteta_varSubtraction_044.st;1.08;0.03;0:00.49;227%;(0avgtext+0avgdata 96208maxresident)k;0inputs+96outputs;(0major+14788minor)pagefaults;0swaps
+smteta_varSubtraction_045.st;1.12;0.05;0:00.50;233%;(0avgtext+0avgdata 96052maxresident)k;0inputs+96outputs;(0major+15499minor)pagefaults;0swaps
+smteta_varSubtraction_046.st;1.07;0.06;0:00.49;228%;(0avgtext+0avgdata 94460maxresident)k;0inputs+96outputs;(0major+15288minor)pagefaults;0swaps
+smteta_varSubtraction_047.st;1.10;0.03;0:00.49;231%;(0avgtext+0avgdata 93324maxresident)k;0inputs+96outputs;(0major+14812minor)pagefaults;0swaps
+smteta_varSubtraction_048.st;1.09;0.06;0:00.49;234%;(0avgtext+0avgdata 93056maxresident)k;0inputs+96outputs;(0major+14740minor)pagefaults;0swaps
+smteta_varSubtraction_049.st;1.11;0.05;0:00.50;233%;(0avgtext+0avgdata 93508maxresident)k;0inputs+96outputs;(0major+15645minor)pagefaults;0swaps
+smteta_varSubtraction_050.st;1.06;0.07;0:00.50;225%;(0avgtext+0avgdata 95184maxresident)k;0inputs+104outputs;(0major+15516minor)pagefaults;0swaps
+smteta_varSubtraction_051.st;1.15;0.05;0:00.50;237%;(0avgtext+0avgdata 103384maxresident)k;0inputs+136outputs;(0major+17755minor)pagefaults;0swaps
+smteta_varSubtraction_052.st;1.13;0.05;0:00.50;234%;(0avgtext+0avgdata 92948maxresident)k;0inputs+104outputs;(0major+15111minor)pagefaults;0swaps
+smteta_varSubtraction_053.st;1.08;0.06;0:00.49;231%;(0avgtext+0avgdata 94056maxresident)k;0inputs+104outputs;(0major+15274minor)pagefaults;0swaps
+smteta_varSubtraction_054.st;1.13;0.05;0:00.51;231%;(0avgtext+0avgdata 103188maxresident)k;0inputs+104outputs;(0major+18462minor)pagefaults;0swaps
+smteta_varSubtraction_055.st;1.20;0.03;0:00.56;220%;(0avgtext+0avgdata 90732maxresident)k;0inputs+104outputs;(0major+15720minor)pagefaults;0swaps
+smteta_varSubtraction_056.st;1.11;0.07;0:00.52;224%;(0avgtext+0avgdata 94104maxresident)k;0inputs+104outputs;(0major+14805minor)pagefaults;0swaps
+smteta_varSubtraction_057.st;1.06;0.07;0:00.48;232%;(0avgtext+0avgdata 92892maxresident)k;0inputs+104outputs;(0major+14878minor)pagefaults;0swaps
+smteta_varSubtraction_058.st;1.10;0.06;0:00.50;231%;(0avgtext+0avgdata 91060maxresident)k;0inputs+104outputs;(0major+14949minor)pagefaults;0swaps
+smteta_varSubtraction_059.st;1.17;0.04;0:00.52;232%;(0avgtext+0avgdata 101056maxresident)k;0inputs+104outputs;(0major+18497minor)pagefaults;0swaps
+smteta_varSubtraction_060.st;1.20;0.06;0:00.53;237%;(0avgtext+0avgdata 103284maxresident)k;0inputs+104outputs;(0major+17876minor)pagefaults;0swaps
+smteta_varSubtraction_061.st;1.21;0.05;0:00.57;223%;(0avgtext+0avgdata 103044maxresident)k;0inputs+104outputs;(0major+18511minor)pagefaults;0swaps
+smteta_varSubtraction_062.st;1.21;0.05;0:00.53;238%;(0avgtext+0avgdata 105388maxresident)k;0inputs+104outputs;(0major+18567minor)pagefaults;0swaps
+smteta_varSubtraction_063.st;1.17;0.06;0:00.51;240%;(0avgtext+0avgdata 89340maxresident)k;0inputs+104outputs;(0major+15929minor)pagefaults;0swaps
+smteta_varSubtraction_064.st;1.12;0.06;0:00.50;236%;(0avgtext+0avgdata 91768maxresident)k;0inputs+112outputs;(0major+14990minor)pagefaults;0swaps
+smteta_varSubtraction_065.st;1.16;0.04;0:00.50;238%;(0avgtext+0avgdata 93248maxresident)k;0inputs+112outputs;(0major+15084minor)pagefaults;0swaps
+smteta_varSubtraction_066.st;1.25;0.04;0:00.52;247%;(0avgtext+0avgdata 99092maxresident)k;0inputs+112outputs;(0major+17617minor)pagefaults;0swaps
+smteta_varSubtraction_067.st;1.26;0.07;0:00.53;251%;(0avgtext+0avgdata 105220maxresident)k;0inputs+112outputs;(0major+18789minor)pagefaults;0swaps
+smteta_varSubtraction_068.st;1.19;0.06;0:00.51;244%;(0avgtext+0avgdata 97828maxresident)k;0inputs+112outputs;(0major+15218minor)pagefaults;0swaps
+smteta_varSubtraction_069.st;1.18;0.04;0:00.51;239%;(0avgtext+0avgdata 96724maxresident)k;0inputs+112outputs;(0major+15810minor)pagefaults;0swaps
+smteta_varSubtraction_070.st;1.26;0.05;0:00.53;248%;(0avgtext+0avgdata 104412maxresident)k;0inputs+112outputs;(0major+18705minor)pagefaults;0swaps
+smteta_varSubtraction_071.st;1.25;0.06;0:00.53;248%;(0avgtext+0avgdata 105200maxresident)k;0inputs+112outputs;(0major+18856minor)pagefaults;0swaps
+smteta_varSubtraction_072.st;1.21;0.04;0:00.53;235%;(0avgtext+0avgdata 104436maxresident)k;0inputs+112outputs;(0major+18113minor)pagefaults;0swaps
+smteta_varSubtraction_073.st;1.15;0.06;0:00.53;228%;(0avgtext+0avgdata 104976maxresident)k;0inputs+112outputs;(0major+18008minor)pagefaults;0swaps
+smteta_varSubtraction_074.st;1.21;0.07;0:00.55;232%;(0avgtext+0avgdata 102424maxresident)k;0inputs+112outputs;(0major+17456minor)pagefaults;0swaps
+smteta_varSubtraction_075.st;1.33;0.04;0:00.56;243%;(0avgtext+0avgdata 103064maxresident)k;0inputs+112outputs;(0major+18586minor)pagefaults;0swaps
+smteta_varSubtraction_076.st;1.29;0.05;0:00.54;248%;(0avgtext+0avgdata 104324maxresident)k;0inputs+112outputs;(0major+18422minor)pagefaults;0swaps
+smteta_varSubtraction_077.st;1.27;0.05;0:00.54;243%;(0avgtext+0avgdata 98488maxresident)k;0inputs+120outputs;(0major+17966minor)pagefaults;0swaps
+smteta_varSubtraction_078.st;1.25;0.09;0:00.54;249%;(0avgtext+0avgdata 96952maxresident)k;0inputs+120outputs;(0major+17718minor)pagefaults;0swaps
+smteta_varSubtraction_079.st;1.30;0.03;0:00.53;253%;(0avgtext+0avgdata 106584maxresident)k;0inputs+120outputs;(0major+18309minor)pagefaults;0swaps
+smteta_varSubtraction_080.st;1.28;0.04;0:00.54;243%;(0avgtext+0avgdata 104444maxresident)k;0inputs+120outputs;(0major+18100minor)pagefaults;0swaps
+smteta_varSubtraction_081.st;1.28;0.06;0:00.58;229%;(0avgtext+0avgdata 104472maxresident)k;0inputs+120outputs;(0major+18143minor)pagefaults;0swaps
+smteta_varSubtraction_082.st;1.26;0.06;0:00.54;245%;(0avgtext+0avgdata 106296maxresident)k;0inputs+120outputs;(0major+18105minor)pagefaults;0swaps
+smteta_varSubtraction_083.st;1.31;0.09;0:00.54;257%;(0avgtext+0avgdata 110796maxresident)k;0inputs+120outputs;(0major+19399minor)pagefaults;0swaps
+smteta_varSubtraction_084.st;1.32;0.05;0:00.54;253%;(0avgtext+0avgdata 104488maxresident)k;0inputs+120outputs;(0major+19093minor)pagefaults;0swaps
+smteta_varSubtraction_085.st;1.31;0.07;0:00.55;248%;(0avgtext+0avgdata 102060maxresident)k;0inputs+120outputs;(0major+18803minor)pagefaults;0swaps
+smteta_varSubtraction_086.st;1.25;0.04;0:00.54;238%;(0avgtext+0avgdata 102672maxresident)k;0inputs+120outputs;(0major+17581minor)pagefaults;0swaps
+smteta_varSubtraction_087.st;1.32;0.04;0:00.55;245%;(0avgtext+0avgdata 102140maxresident)k;0inputs+120outputs;(0major+17557minor)pagefaults;0swaps
+smteta_varSubtraction_088.st;1.33;0.06;0:00.54;256%;(0avgtext+0avgdata 102916maxresident)k;0inputs+120outputs;(0major+18218minor)pagefaults;0swaps
+smteta_varSubtraction_089.st;1.36;0.04;0:00.55;254%;(0avgtext+0avgdata 104452maxresident)k;0inputs+120outputs;(0major+18033minor)pagefaults;0swaps
+smteta_varSubtraction_090.st;1.29;0.02;0:00.55;238%;(0avgtext+0avgdata 105260maxresident)k;0inputs+128outputs;(0major+18214minor)pagefaults;0swaps
+smteta_varSubtraction_091.st;1.36;0.04;0:00.55;252%;(0avgtext+0avgdata 107380maxresident)k;0inputs+128outputs;(0major+18500minor)pagefaults;0swaps
+smteta_varSubtraction_092.st;1.38;0.04;0:00.56;254%;(0avgtext+0avgdata 107800maxresident)k;0inputs+128outputs;(0major+18953minor)pagefaults;0swaps
+smteta_varSubtraction_093.st;1.42;0.04;0:00.60;243%;(0avgtext+0avgdata 106256maxresident)k;0inputs+128outputs;(0major+19237minor)pagefaults;0swaps
+smteta_varSubtraction_094.st;1.41;0.05;0:00.56;262%;(0avgtext+0avgdata 104996maxresident)k;0inputs+128outputs;(0major+16940minor)pagefaults;0swaps
+smteta_varSubtraction_095.st;1.36;0.03;0:00.56;249%;(0avgtext+0avgdata 102776maxresident)k;0inputs+128outputs;(0major+17391minor)pagefaults;0swaps
+smteta_varSubtraction_096.st;1.34;0.04;0:00.55;248%;(0avgtext+0avgdata 105012maxresident)k;0inputs+128outputs;(0major+18512minor)pagefaults;0swaps
+smteta_varSubtraction_097.st;1.41;0.04;0:00.57;252%;(0avgtext+0avgdata 104528maxresident)k;0inputs+128outputs;(0major+18848minor)pagefaults;0swaps
+smteta_varSubtraction_098.st;1.38;0.04;0:00.56;253%;(0avgtext+0avgdata 107208maxresident)k;0inputs+128outputs;(0major+17802minor)pagefaults;0swaps
+smteta_varSubtraction_099.st;1.35;0.08;0:00.56;256%;(0avgtext+0avgdata 104364maxresident)k;0inputs+160outputs;(0major+17811minor)pagefaults;0swaps
+smteta_varSubtraction_100.st;1.40;0.08;0:00.56;261%;(0avgtext+0avgdata 104296maxresident)k;0inputs+128outputs;(0major+18095minor)pagefaults;0swaps
+eld-math_varSubtraction_001.hcc;1.79;0.11;0:00.99;192%;(0avgtext+0avgdata 143356maxresident)k;0inputs+64outputs;(0major+18052minor)pagefaults;0swaps
+eld-math_varSubtraction_002.hcc;1.79;0.08;0:00.93;200%;(0avgtext+0avgdata 141164maxresident)k;0inputs+64outputs;(0major+17267minor)pagefaults;0swaps
+eld-math_varSubtraction_003.hcc;2.01;0.08;0:00.97;215%;(0avgtext+0avgdata 157628maxresident)k;0inputs+64outputs;(0major+21453minor)pagefaults;0swaps
+eld-math_varSubtraction_004.hcc;2.14;0.12;0:01.01;224%;(0avgtext+0avgdata 156076maxresident)k;0inputs+64outputs;(0major+23066minor)pagefaults;0swaps
+eld-math_varSubtraction_005.hcc;2.28;0.08;0:01.00;234%;(0avgtext+0avgdata 163436maxresident)k;0inputs+64outputs;(0major+25511minor)pagefaults;0swaps
+eld-math_varSubtraction_006.hcc;2.39;0.09;0:01.07;231%;(0avgtext+0avgdata 160652maxresident)k;0inputs+64outputs;(0major+23682minor)pagefaults;0swaps
+eld-math_varSubtraction_007.hcc;2.42;0.11;0:01.08;234%;(0avgtext+0avgdata 164864maxresident)k;0inputs+64outputs;(0major+27154minor)pagefaults;0swaps
+eld-math_varSubtraction_008.hcc;2.64;0.11;0:01.14;240%;(0avgtext+0avgdata 173100maxresident)k;0inputs+64outputs;(0major+27761minor)pagefaults;0swaps
+eld-math_varSubtraction_009.hcc;2.66;0.08;0:01.13;242%;(0avgtext+0avgdata 179476maxresident)k;0inputs+96outputs;(0major+26986minor)pagefaults;0swaps
+eld-math_varSubtraction_010.hcc;3.15;0.12;0:01.32;247%;(0avgtext+0avgdata 205732maxresident)k;0inputs+64outputs;(0major+26560minor)pagefaults;0swaps
+eld-math_varSubtraction_011.hcc;3.64;0.08;0:01.43;260%;(0avgtext+0avgdata 223932maxresident)k;0inputs+64outputs;(0major+24496minor)pagefaults;0swaps
+eld-math_varSubtraction_012.hcc;3.71;0.10;0:01.50;254%;(0avgtext+0avgdata 259580maxresident)k;0inputs+64outputs;(0major+26590minor)pagefaults;0swaps
+eld-math_varSubtraction_013.hcc;4.34;0.09;0:01.66;266%;(0avgtext+0avgdata 273036maxresident)k;0inputs+64outputs;(0major+29152minor)pagefaults;0swaps
+eld-math_varSubtraction_014.hcc;5.74;0.10;0:02.16;270%;(0avgtext+0avgdata 273132maxresident)k;0inputs+64outputs;(0major+33506minor)pagefaults;0swaps
+eld-math_varSubtraction_015.hcc;5.42;0.11;0:02.03;273%;(0avgtext+0avgdata 278480maxresident)k;0inputs+64outputs;(0major+33133minor)pagefaults;0swaps
+eld-math_varSubtraction_016.hcc;8.86;0.17;0:03.19;283%;(0avgtext+0avgdata 334940maxresident)k;0inputs+64outputs;(0major+35217minor)pagefaults;0swaps
+eld-math_varSubtraction_017.hcc;10.51;0.15;0:03.70;287%;(0avgtext+0avgdata 381632maxresident)k;0inputs+64outputs;(0major+33991minor)pagefaults;0swaps
+eld-math_varSubtraction_018.hcc;14.53;0.13;0:05.13;285%;(0avgtext+0avgdata 321468maxresident)k;0inputs+128outputs;(0major+36920minor)pagefaults;0swaps
+eld-math_varSubtraction_019.hcc;14.53;0.23;0:05.63;262%;(0avgtext+0avgdata 400192maxresident)k;0inputs+64outputs;(0major+49287minor)pagefaults;0swaps
+eld-math_varSubtraction_020.hcc;20.23;0.16;0:08.15;249%;(0avgtext+0avgdata 446832maxresident)k;0inputs+96outputs;(0major+53100minor)pagefaults;0swaps
+eld-math_varSubtraction_021.hcc;25.30;0.22;0:10.86;235%;(0avgtext+0avgdata 530600maxresident)k;0inputs+128outputs;(0major+44500minor)pagefaults;0swaps
+eld-math_varSubtraction_022.hcc;36.73;0.17;0:17.34;212%;(0avgtext+0avgdata 706540maxresident)k;0inputs+96outputs;(0major+45690minor)pagefaults;0swaps
+eld-math_varSubtraction_023.hcc;40.61;0.26;0:23.87;171%;(0avgtext+0avgdata 933328maxresident)k;0inputs+160outputs;(0major+41713minor)pagefaults;0swaps
+eld-math_varSubtraction_024.hcc;61.09;0.26;0:39.57;155%;(0avgtext+0avgdata 941308maxresident)k;0inputs+128outputs;(0major+49593minor)pagefaults;0swaps
+eld-math_varSubtraction_025.hcc;78.29;0.22;0:56.76;138%;(0avgtext+0avgdata 1209588maxresident)k;0inputs+128outputs;(0major+52245minor)pagefaults;0swaps
+eld-math_varSubtraction_026.hcc;172.56;0.63;1:39.89;173%;(0avgtext+0avgdata 1465240maxresident)k;0inputs+168outputs;(0major+59549minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_027.hcc;178.27;0.79;1:41.93;175%;(0avgtext+0avgdata 1688440maxresident)k;0inputs+232outputs;(0major+42318minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_028.hcc;176.50;0.82;1:41.47;174%;(0avgtext+0avgdata 2241836maxresident)k;0inputs+168outputs;(0major+79672minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_029.hcc;167.22;0.52;1:42.80;163%;(0avgtext+0avgdata 2278144maxresident)k;0inputs+168outputs;(0major+98504minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_030.hcc;118.76;0.21;1:40.01;118%;(0avgtext+0avgdata 283200maxresident)k;0inputs+232outputs;(0major+33521minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_031.hcc;111.54;0.17;1:40.01;111%;(0avgtext+0avgdata 274364maxresident)k;0inputs+208outputs;(0major+34047minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_032.hcc;106.16;0.11;1:40.36;105%;(0avgtext+0avgdata 275476maxresident)k;0inputs+168outputs;(0major+30488minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_033.hcc;102.64;0.13;1:40.01;102%;(0avgtext+0avgdata 266724maxresident)k;0inputs+232outputs;(0major+24312minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_034.hcc;101.96;0.10;1:40.01;102%;(0avgtext+0avgdata 250012maxresident)k;0inputs+232outputs;(0major+22858minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_035.hcc;101.69;0.11;1:40.01;101%;(0avgtext+0avgdata 248724maxresident)k;0inputs+168outputs;(0major+19684minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_036.hcc;101.74;0.09;1:40.01;101%;(0avgtext+0avgdata 252848maxresident)k;0inputs+168outputs;(0major+20966minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_037.hcc;101.63;0.11;1:40.01;101%;(0avgtext+0avgdata 249960maxresident)k;0inputs+168outputs;(0major+21017minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_038.hcc;102.11;0.15;1:40.01;102%;(0avgtext+0avgdata 259204maxresident)k;0inputs+168outputs;(0major+25495minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_039.hcc;102.46;0.16;1:40.01;102%;(0avgtext+0avgdata 257920maxresident)k;0inputs+232outputs;(0major+31884minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_040.hcc;101.64;0.11;1:40.01;101%;(0avgtext+0avgdata 248976maxresident)k;0inputs+168outputs;(0major+21152minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_041.hcc;102.64;0.14;1:40.01;102%;(0avgtext+0avgdata 269000maxresident)k;0inputs+232outputs;(0major+26527minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_042.hcc;102.85;0.13;1:40.01;102%;(0avgtext+0avgdata 264824maxresident)k;0inputs+168outputs;(0major+27566minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_043.hcc;102.38;0.14;1:40.01;102%;(0avgtext+0avgdata 253248maxresident)k;0inputs+232outputs;(0major+30533minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_044.hcc;102.17;0.12;1:40.01;102%;(0avgtext+0avgdata 254208maxresident)k;0inputs+320outputs;(0major+28575minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_045.hcc;101.75;0.16;1:40.01;101%;(0avgtext+0avgdata 248100maxresident)k;0inputs+232outputs;(0major+22466minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_046.hcc;101.77;0.14;1:40.01;101%;(0avgtext+0avgdata 243716maxresident)k;0inputs+200outputs;(0major+20452minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_047.hcc;102.20;0.14;1:40.01;102%;(0avgtext+0avgdata 257868maxresident)k;0inputs+168outputs;(0major+24971minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_048.hcc;102.60;0.16;1:40.01;102%;(0avgtext+0avgdata 250572maxresident)k;0inputs+232outputs;(0major+28363minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_049.hcc;102.75;0.18;1:40.01;102%;(0avgtext+0avgdata 264144maxresident)k;0inputs+192outputs;(0major+24679minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_050.hcc;102.69;0.11;1:40.01;102%;(0avgtext+0avgdata 263748maxresident)k;0inputs+168outputs;(0major+26237minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_051.hcc;102.82;0.09;1:40.01;102%;(0avgtext+0avgdata 259064maxresident)k;0inputs+168outputs;(0major+24060minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_052.hcc;102.89;0.09;1:40.01;102%;(0avgtext+0avgdata 254396maxresident)k;0inputs+168outputs;(0major+31821minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_053.hcc;102.09;0.12;1:40.01;102%;(0avgtext+0avgdata 245760maxresident)k;0inputs+168outputs;(0major+26955minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_054.hcc;102.64;0.16;1:40.01;102%;(0avgtext+0avgdata 245756maxresident)k;0inputs+232outputs;(0major+30194minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_055.hcc;102.33;0.14;1:40.01;102%;(0avgtext+0avgdata 251532maxresident)k;0inputs+232outputs;(0major+30609minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_056.hcc;101.90;0.10;1:40.01;102%;(0avgtext+0avgdata 253740maxresident)k;0inputs+168outputs;(0major+21974minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_057.hcc;102.62;0.15;1:40.01;102%;(0avgtext+0avgdata 259536maxresident)k;0inputs+168outputs;(0major+24493minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_058.hcc;102.79;0.12;1:40.01;102%;(0avgtext+0avgdata 262768maxresident)k;0inputs+168outputs;(0major+24853minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_059.hcc;101.70;0.17;1:40.01;101%;(0avgtext+0avgdata 248116maxresident)k;0inputs+176outputs;(0major+22457minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_060.hcc;102.74;0.15;1:40.01;102%;(0avgtext+0avgdata 254748maxresident)k;0inputs+312outputs;(0major+29819minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_061.hcc;102.90;0.11;1:40.01;102%;(0avgtext+0avgdata 254488maxresident)k;0inputs+232outputs;(0major+30131minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_062.hcc;102.95;0.12;1:40.01;103%;(0avgtext+0avgdata 262872maxresident)k;0inputs+168outputs;(0major+27390minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_063.hcc;101.86;0.13;1:40.01;101%;(0avgtext+0avgdata 245644maxresident)k;0inputs+232outputs;(0major+22059minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_064.hcc;102.96;0.15;1:40.01;103%;(0avgtext+0avgdata 264244maxresident)k;0inputs+168outputs;(0major+24307minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_065.hcc;103.05;0.16;1:40.01;103%;(0avgtext+0avgdata 262472maxresident)k;0inputs+168outputs;(0major+25000minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_066.hcc;102.23;0.21;1:40.01;102%;(0avgtext+0avgdata 260488maxresident)k;0inputs+168outputs;(0major+25536minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_067.hcc;102.76;0.17;1:40.01;102%;(0avgtext+0avgdata 250808maxresident)k;0inputs+232outputs;(0major+28854minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_068.hcc;101.81;0.17;1:40.01;101%;(0avgtext+0avgdata 247476maxresident)k;0inputs+168outputs;(0major+21113minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_069.hcc;102.72;0.12;1:40.01;102%;(0avgtext+0avgdata 247204maxresident)k;0inputs+232outputs;(0major+29065minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_070.hcc;101.94;0.11;1:40.01;102%;(0avgtext+0avgdata 252920maxresident)k;0inputs+168outputs;(0major+20480minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_071.hcc;102.69;0.13;1:40.01;102%;(0avgtext+0avgdata 254860maxresident)k;0inputs+168outputs;(0major+29628minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_072.hcc;102.75;0.15;1:40.01;102%;(0avgtext+0avgdata 266392maxresident)k;0inputs+168outputs;(0major+25240minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_073.hcc;103.20;0.17;1:40.01;103%;(0avgtext+0avgdata 261876maxresident)k;0inputs+168outputs;(0major+35595minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_074.hcc;102.75;0.14;1:40.01;102%;(0avgtext+0avgdata 250080maxresident)k;0inputs+232outputs;(0major+30080minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_075.hcc;102.93;0.17;1:40.01;103%;(0avgtext+0avgdata 249040maxresident)k;0inputs+232outputs;(0major+30377minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_076.hcc;102.78;0.20;1:40.01;102%;(0avgtext+0avgdata 249372maxresident)k;0inputs+168outputs;(0major+30010minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_077.hcc;102.96;0.15;1:40.01;103%;(0avgtext+0avgdata 265924maxresident)k;0inputs+168outputs;(0major+25622minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_078.hcc;102.90;0.14;1:40.01;103%;(0avgtext+0avgdata 317908maxresident)k;0inputs+232outputs;(0major+26939minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_079.hcc;102.48;0.15;1:40.01;102%;(0avgtext+0avgdata 262004maxresident)k;0inputs+168outputs;(0major+23788minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_080.hcc;103.03;0.14;1:40.01;103%;(0avgtext+0avgdata 263688maxresident)k;0inputs+168outputs;(0major+24153minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_081.hcc;102.14;0.16;1:40.01;102%;(0avgtext+0avgdata 247684maxresident)k;0inputs+168outputs;(0major+26421minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_082.hcc;102.87;0.16;1:40.01;103%;(0avgtext+0avgdata 245516maxresident)k;0inputs+168outputs;(0major+28611minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_083.hcc;102.26;0.17;1:40.01;102%;(0avgtext+0avgdata 248780maxresident)k;0inputs+168outputs;(0major+28700minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_084.hcc;102.93;0.14;1:40.01;103%;(0avgtext+0avgdata 266080maxresident)k;0inputs+232outputs;(0major+26116minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_085.hcc;102.44;0.17;1:40.01;102%;(0avgtext+0avgdata 264236maxresident)k;0inputs+168outputs;(0major+25959minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_086.hcc;102.81;0.10;1:40.01;102%;(0avgtext+0avgdata 265336maxresident)k;0inputs+168outputs;(0major+23849minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_087.hcc;102.33;0.18;1:40.01;102%;(0avgtext+0avgdata 255360maxresident)k;0inputs+168outputs;(0major+27429minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_088.hcc;103.17;0.12;1:40.01;103%;(0avgtext+0avgdata 250152maxresident)k;0inputs+232outputs;(0major+30089minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_089.hcc;101.98;0.17;1:40.01;102%;(0avgtext+0avgdata 251288maxresident)k;0inputs+232outputs;(0major+20978minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_090.hcc;102.69;0.16;1:40.01;102%;(0avgtext+0avgdata 272628maxresident)k;0inputs+232outputs;(0major+32064minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_091.hcc;102.25;0.10;1:40.01;102%;(0avgtext+0avgdata 247780maxresident)k;0inputs+168outputs;(0major+21713minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_092.hcc;102.53;0.13;1:40.01;102%;(0avgtext+0avgdata 265204maxresident)k;0inputs+168outputs;(0major+25956minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_093.hcc;102.71;0.17;1:40.01;102%;(0avgtext+0avgdata 256480maxresident)k;0inputs+168outputs;(0major+28462minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_094.hcc;103.02;0.18;1:40.01;103%;(0avgtext+0avgdata 254364maxresident)k;0inputs+232outputs;(0major+30887minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_095.hcc;103.29;0.14;1:40.01;103%;(0avgtext+0avgdata 269432maxresident)k;0inputs+232outputs;(0major+32580minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_096.hcc;103.60;0.15;1:40.01;103%;(0avgtext+0avgdata 265568maxresident)k;0inputs+312outputs;(0major+35439minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_097.hcc;102.87;0.15;1:40.01;103%;(0avgtext+0avgdata 320420maxresident)k;0inputs+208outputs;(0major+25737minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_098.hcc;102.51;0.16;1:40.01;102%;(0avgtext+0avgdata 252236maxresident)k;0inputs+320outputs;(0major+29600minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_099.hcc;103.13;0.13;1:40.01;103%;(0avgtext+0avgdata 249380maxresident)k;0inputs+296outputs;(0major+31775minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_varSubtraction_100.hcc;103.77;0.12;1:40.01;103%;(0avgtext+0avgdata 271356maxresident)k;0inputs+168outputs;(0major+37515minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_001.hcc;1.80;0.11;0:00.94;203%;(0avgtext+0avgdata 151380maxresident)k;0inputs+64outputs;(0major+20185minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_002.hcc;2.02;0.08;0:00.95;219%;(0avgtext+0avgdata 155376maxresident)k;0inputs+64outputs;(0major+21309minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_003.hcc;2.15;0.08;0:00.97;229%;(0avgtext+0avgdata 159860maxresident)k;0inputs+64outputs;(0major+22632minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_004.hcc;2.21;0.08;0:01.00;228%;(0avgtext+0avgdata 157852maxresident)k;0inputs+64outputs;(0major+22895minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_005.hcc;2.20;0.09;0:00.99;229%;(0avgtext+0avgdata 166456maxresident)k;0inputs+64outputs;(0major+23727minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_006.hcc;2.28;0.10;0:00.99;239%;(0avgtext+0avgdata 172228maxresident)k;0inputs+64outputs;(0major+22724minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_007.hcc;2.29;0.10;0:01.01;235%;(0avgtext+0avgdata 170904maxresident)k;0inputs+64outputs;(0major+21732minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_008.hcc;2.34;0.13;0:01.06;232%;(0avgtext+0avgdata 173380maxresident)k;0inputs+64outputs;(0major+23108minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_009.hcc;2.36;0.07;0:01.04;233%;(0avgtext+0avgdata 172128maxresident)k;0inputs+64outputs;(0major+21911minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_010.hcc;2.46;0.07;0:01.04;242%;(0avgtext+0avgdata 177684maxresident)k;0inputs+64outputs;(0major+22416minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_011.hcc;2.45;0.11;0:01.06;240%;(0avgtext+0avgdata 182344maxresident)k;0inputs+96outputs;(0major+22544minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_012.hcc;2.48;0.11;0:01.08;239%;(0avgtext+0avgdata 188496maxresident)k;0inputs+64outputs;(0major+22736minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_013.hcc;2.72;0.13;0:01.18;240%;(0avgtext+0avgdata 197684maxresident)k;0inputs+64outputs;(0major+25337minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_014.hcc;2.72;0.11;0:01.18;239%;(0avgtext+0avgdata 201664maxresident)k;0inputs+64outputs;(0major+25627minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_015.hcc;2.70;0.10;0:01.14;245%;(0avgtext+0avgdata 195012maxresident)k;0inputs+64outputs;(0major+24946minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_016.hcc;2.87;0.08;0:01.21;245%;(0avgtext+0avgdata 213396maxresident)k;0inputs+64outputs;(0major+25603minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_017.hcc;2.86;0.11;0:01.21;244%;(0avgtext+0avgdata 218472maxresident)k;0inputs+64outputs;(0major+25874minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_018.hcc;3.04;0.10;0:01.29;243%;(0avgtext+0avgdata 226740maxresident)k;0inputs+64outputs;(0major+29059minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_019.hcc;2.92;0.10;0:01.21;250%;(0avgtext+0avgdata 234024maxresident)k;0inputs+64outputs;(0major+26015minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_020.hcc;3.06;0.10;0:01.26;251%;(0avgtext+0avgdata 245784maxresident)k;0inputs+64outputs;(0major+30565minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_021.hcc;3.08;0.10;0:01.27;250%;(0avgtext+0avgdata 247316maxresident)k;0inputs+96outputs;(0major+25931minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_022.hcc;3.15;0.11;0:01.28;254%;(0avgtext+0avgdata 252336maxresident)k;0inputs+64outputs;(0major+28470minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_023.hcc;3.20;0.11;0:01.30;254%;(0avgtext+0avgdata 260220maxresident)k;0inputs+64outputs;(0major+27035minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_024.hcc;3.27;0.11;0:01.31;257%;(0avgtext+0avgdata 274856maxresident)k;0inputs+64outputs;(0major+26421minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_025.hcc;3.16;0.12;0:01.26;261%;(0avgtext+0avgdata 261824maxresident)k;0inputs+64outputs;(0major+25252minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_026.hcc;3.41;0.14;0:01.36;260%;(0avgtext+0avgdata 275720maxresident)k;0inputs+64outputs;(0major+30943minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_027.hcc;3.53;0.11;0:01.42;256%;(0avgtext+0avgdata 273884maxresident)k;0inputs+64outputs;(0major+29363minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_028.hcc;3.56;0.14;0:01.47;250%;(0avgtext+0avgdata 277508maxresident)k;0inputs+64outputs;(0major+26648minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_029.hcc;3.74;0.11;0:01.48;260%;(0avgtext+0avgdata 277348maxresident)k;0inputs+64outputs;(0major+29204minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_030.hcc;3.76;0.11;0:01.45;266%;(0avgtext+0avgdata 275236maxresident)k;0inputs+64outputs;(0major+30888minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_031.hcc;3.61;0.10;0:01.41;263%;(0avgtext+0avgdata 270212maxresident)k;0inputs+64outputs;(0major+30564minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_032.hcc;3.71;0.10;0:01.44;264%;(0avgtext+0avgdata 279240maxresident)k;0inputs+64outputs;(0major+30955minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_033.hcc;4.30;0.14;0:01.74;255%;(0avgtext+0avgdata 285600maxresident)k;0inputs+64outputs;(0major+32522minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_034.hcc;4.63;0.13;0:01.90;250%;(0avgtext+0avgdata 291948maxresident)k;0inputs+64outputs;(0major+36306minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_035.hcc;3.82;0.10;0:01.51;259%;(0avgtext+0avgdata 284020maxresident)k;0inputs+96outputs;(0major+28741minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_036.hcc;4.40;0.13;0:01.70;265%;(0avgtext+0avgdata 293792maxresident)k;0inputs+64outputs;(0major+29133minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_037.hcc;4.67;0.11;0:01.84;259%;(0avgtext+0avgdata 291652maxresident)k;0inputs+64outputs;(0major+28598minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_038.hcc;4.04;0.14;0:01.54;271%;(0avgtext+0avgdata 290124maxresident)k;0inputs+64outputs;(0major+32883minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_039.hcc;4.21;0.13;0:01.71;253%;(0avgtext+0avgdata 288756maxresident)k;0inputs+64outputs;(0major+27639minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_040.hcc;4.99;0.13;0:01.89;269%;(0avgtext+0avgdata 294300maxresident)k;0inputs+64outputs;(0major+28537minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_041.hcc;5.09;0.10;0:01.92;269%;(0avgtext+0avgdata 296276maxresident)k;0inputs+64outputs;(0major+35154minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_042.hcc;4.33;0.15;0:01.68;265%;(0avgtext+0avgdata 291044maxresident)k;0inputs+64outputs;(0major+34493minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_043.hcc;4.50;0.09;0:01.71;268%;(0avgtext+0avgdata 292904maxresident)k;0inputs+64outputs;(0major+33898minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_044.hcc;5.22;0.14;0:01.97;272%;(0avgtext+0avgdata 293072maxresident)k;0inputs+64outputs;(0major+36031minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_045.hcc;4.48;0.09;0:01.67;272%;(0avgtext+0avgdata 292968maxresident)k;0inputs+96outputs;(0major+33560minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_046.hcc;5.42;0.15;0:02.09;266%;(0avgtext+0avgdata 301952maxresident)k;0inputs+64outputs;(0major+30670minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_047.hcc;4.75;0.14;0:01.90;258%;(0avgtext+0avgdata 298180maxresident)k;0inputs+64outputs;(0major+28282minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_048.hcc;5.53;0.11;0:02.00;282%;(0avgtext+0avgdata 296836maxresident)k;0inputs+64outputs;(0major+34176minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_049.hcc;4.74;0.13;0:01.83;265%;(0avgtext+0avgdata 294024maxresident)k;0inputs+64outputs;(0major+28851minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_050.hcc;5.87;0.17;0:02.32;259%;(0avgtext+0avgdata 296916maxresident)k;0inputs+64outputs;(0major+30827minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_051.hcc;5.81;0.11;0:02.14;276%;(0avgtext+0avgdata 299892maxresident)k;0inputs+96outputs;(0major+30438minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_052.hcc;4.83;0.13;0:01.79;277%;(0avgtext+0avgdata 300268maxresident)k;0inputs+64outputs;(0major+28069minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_053.hcc;6.41;0.10;0:02.36;275%;(0avgtext+0avgdata 304368maxresident)k;0inputs+64outputs;(0major+34822minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_054.hcc;5.92;0.14;0:02.18;277%;(0avgtext+0avgdata 297804maxresident)k;0inputs+64outputs;(0major+37769minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_055.hcc;5.07;0.15;0:01.89;276%;(0avgtext+0avgdata 298028maxresident)k;0inputs+64outputs;(0major+33921minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_056.hcc;5.17;0.16;0:02.01;265%;(0avgtext+0avgdata 298204maxresident)k;0inputs+64outputs;(0major+34571minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_057.hcc;5.35;0.10;0:01.99;274%;(0avgtext+0avgdata 308056maxresident)k;0inputs+64outputs;(0major+30825minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_058.hcc;7.01;0.14;0:02.65;270%;(0avgtext+0avgdata 304312maxresident)k;0inputs+64outputs;(0major+38163minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_059.hcc;5.42;0.15;0:02.01;276%;(0avgtext+0avgdata 318136maxresident)k;0inputs+64outputs;(0major+38875minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_060.hcc;6.71;0.13;0:02.42;283%;(0avgtext+0avgdata 304988maxresident)k;0inputs+64outputs;(0major+36273minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_061.hcc;5.52;0.12;0:02.06;274%;(0avgtext+0avgdata 304200maxresident)k;0inputs+96outputs;(0major+28998minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_062.hcc;7.11;0.17;0:02.77;262%;(0avgtext+0avgdata 305040maxresident)k;0inputs+64outputs;(0major+36400minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_063.hcc;5.85;0.15;0:02.15;279%;(0avgtext+0avgdata 320640maxresident)k;0inputs+64outputs;(0major+35453minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_064.hcc;6.13;0.14;0:02.22;282%;(0avgtext+0avgdata 308868maxresident)k;0inputs+64outputs;(0major+35396minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_065.hcc;5.97;0.15;0:02.20;277%;(0avgtext+0avgdata 404124maxresident)k;0inputs+96outputs;(0major+38557minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_066.hcc;5.98;0.16;0:02.20;279%;(0avgtext+0avgdata 409776maxresident)k;0inputs+64outputs;(0major+28056minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_067.hcc;6.35;0.16;0:02.34;278%;(0avgtext+0avgdata 380616maxresident)k;0inputs+64outputs;(0major+35093minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_068.hcc;6.38;0.12;0:02.29;283%;(0avgtext+0avgdata 325524maxresident)k;0inputs+64outputs;(0major+30556minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_069.hcc;7.00;0.16;0:02.56;279%;(0avgtext+0avgdata 322364maxresident)k;0inputs+64outputs;(0major+37284minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_070.hcc;7.22;0.17;0:02.67;277%;(0avgtext+0avgdata 441144maxresident)k;0inputs+64outputs;(0major+30344minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_071.hcc;6.50;0.14;0:02.34;283%;(0avgtext+0avgdata 331276maxresident)k;0inputs+64outputs;(0major+29644minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_072.hcc;6.84;0.15;0:02.42;288%;(0avgtext+0avgdata 366008maxresident)k;0inputs+64outputs;(0major+31619minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_073.hcc;6.78;0.12;0:02.45;281%;(0avgtext+0avgdata 410764maxresident)k;0inputs+64outputs;(0major+37544minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_074.hcc;7.11;0.20;0:02.58;283%;(0avgtext+0avgdata 444320maxresident)k;0inputs+64outputs;(0major+31773minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_075.hcc;9.06;0.16;0:03.29;279%;(0avgtext+0avgdata 342260maxresident)k;0inputs+96outputs;(0major+34799minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_076.hcc;7.63;0.15;0:02.74;283%;(0avgtext+0avgdata 423116maxresident)k;0inputs+64outputs;(0major+30233minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_077.hcc;7.77;0.19;0:02.80;283%;(0avgtext+0avgdata 444532maxresident)k;0inputs+96outputs;(0major+36631minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_078.hcc;8.46;0.23;0:03.10;280%;(0avgtext+0avgdata 423944maxresident)k;0inputs+64outputs;(0major+33925minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_079.hcc;8.07;0.18;0:02.95;279%;(0avgtext+0avgdata 441104maxresident)k;0inputs+64outputs;(0major+33218minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_080.hcc;7.90;0.17;0:02.91;277%;(0avgtext+0avgdata 451040maxresident)k;0inputs+64outputs;(0major+30853minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_081.hcc;7.53;0.18;0:02.74;281%;(0avgtext+0avgdata 457980maxresident)k;0inputs+64outputs;(0major+35882minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_082.hcc;8.06;0.24;0:02.94;281%;(0avgtext+0avgdata 478552maxresident)k;0inputs+64outputs;(0major+37773minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_083.hcc;8.94;0.21;0:03.30;277%;(0avgtext+0avgdata 493216maxresident)k;0inputs+64outputs;(0major+35660minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_084.hcc;8.94;0.16;0:03.21;283%;(0avgtext+0avgdata 467876maxresident)k;0inputs+64outputs;(0major+34275minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_085.hcc;8.08;0.15;0:02.85;288%;(0avgtext+0avgdata 489412maxresident)k;0inputs+64outputs;(0major+31204minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_086.hcc;8.37;0.21;0:03.17;270%;(0avgtext+0avgdata 450120maxresident)k;0inputs+64outputs;(0major+36205minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_087.hcc;8.55;0.13;0:03.00;288%;(0avgtext+0avgdata 445744maxresident)k;0inputs+192outputs;(0major+31061minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_088.hcc;9.58;0.20;0:03.35;291%;(0avgtext+0avgdata 488888maxresident)k;0inputs+64outputs;(0major+39294minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_089.hcc;8.92;0.17;0:03.13;290%;(0avgtext+0avgdata 504608maxresident)k;0inputs+64outputs;(0major+32225minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_090.hcc;9.15;0.17;0:03.37;276%;(0avgtext+0avgdata 478304maxresident)k;0inputs+64outputs;(0major+38368minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_091.hcc;9.74;0.21;0:03.42;290%;(0avgtext+0avgdata 531632maxresident)k;0inputs+64outputs;(0major+32569minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_092.hcc;9.59;0.22;0:03.39;289%;(0avgtext+0avgdata 493840maxresident)k;0inputs+64outputs;(0major+36960minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_093.hcc;9.61;0.19;0:03.49;280%;(0avgtext+0avgdata 494640maxresident)k;0inputs+64outputs;(0major+35268minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_094.hcc;9.44;0.20;0:03.56;270%;(0avgtext+0avgdata 557248maxresident)k;0inputs+64outputs;(0major+39922minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_095.hcc;9.68;0.17;0:03.44;285%;(0avgtext+0avgdata 515584maxresident)k;0inputs+64outputs;(0major+35231minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_096.hcc;9.92;0.15;0:03.68;273%;(0avgtext+0avgdata 567948maxresident)k;0inputs+96outputs;(0major+40902minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_097.hcc;9.75;0.19;0:03.39;293%;(0avgtext+0avgdata 531984maxresident)k;0inputs+64outputs;(0major+30870minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_098.hcc;10.83;0.21;0:03.98;277%;(0avgtext+0avgdata 508912maxresident)k;0inputs+64outputs;(0major+45357minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_099.hcc;10.28;0.16;0:03.56;292%;(0avgtext+0avgdata 583820maxresident)k;0inputs+64outputs;(0major+39426minor)pagefaults;0swaps
+eld-ilp32_varSubtraction_100.hcc;11.01;0.22;0:03.82;293%;(0avgtext+0avgdata 561908maxresident)k;0inputs+64outputs;(0major+37927minor)pagefaults;0swaps

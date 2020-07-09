@@ -1,0 +1,4 @@
+identifier;user;system;elapsed;CPU;other Stats;other Stats;other Stats;other Stats
+smteta_MinMax.st;1.55;0.18;0:01.64;105%;(0avgtext+0avgdata 122052maxresident)k;121440inputs+176outputs;(15major+23399minor)pagefaults;0swaps
+eld-math_MinMaxTbl.hcc;47.83;0.64;0:16.51;293%;(0avgtext+0avgdata 533112maxresident)k;50024inputs+64outputs;(0major+64773minor)pagefaults;0swaps
+eld-ilp32_MinMaxTbl.hcc;44.60;0.47;0:14.55;309%;(0avgtext+0avgdata 532804maxresident)k;48inputs+64outputs;(0major+60233minor)pagefaults;0swaps

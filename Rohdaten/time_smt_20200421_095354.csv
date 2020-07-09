@@ -1,0 +1,4 @@
+identifier;user;system;elapsed;CPU;other Stats;other Stats;other Stats;other Stats
+smteta_lr.st;1.66;0.12;0:01.25;142%;(0avgtext+0avgdata 126556maxresident)k;13776inputs+128outputs;(0major+24968minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld_lr.hcc;143.28;0.57;1:40.01;143%;(0avgtext+0avgdata 565640maxresident)k;49976inputs+168outputs;(0major+77288minor)pagefaults;0swaps

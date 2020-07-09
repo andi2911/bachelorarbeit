@@ -1,0 +1,3 @@
+identifier;user;system;elapsed;CPU;other Stats;other Stats;other Stats;other Stats
+Command exited with non-zero status 1
+nuXmv_lr.st;1.79;0.12;0:00.82;232%;(0avgtext+0avgdata 146440maxresident)k;0inputs+216outputs;(0major+36818minor)pagefaults;0swaps

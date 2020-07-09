@@ -1,0 +1,47 @@
+identifier;user;system;elapsed;CPU;other Stats;other Stats;other Stats;other Stats
+nuXmv_constMultiplication_001.st;0.94;0.07;0:00.53;191%;(0avgtext+0avgdata 87128maxresident)k;0inputs+96outputs;(0major+18160minor)pagefaults;0swaps
+nuXmv_constMultiplication_002.st;2.01;0.04;0:01.56;131%;(0avgtext+0avgdata 86596maxresident)k;0inputs+96outputs;(0major+20958minor)pagefaults;0swaps
+nuXmv_constMultiplication_003.st;6.47;0.05;0:06.04;108%;(0avgtext+0avgdata 87140maxresident)k;0inputs+96outputs;(0major+24049minor)pagefaults;0swaps
+nuXmv_constMultiplication_004.st;15.45;0.07;0:15.00;103%;(0avgtext+0avgdata 85516maxresident)k;0inputs+96outputs;(0major+29737minor)pagefaults;0swaps
+nuXmv_constMultiplication_005.st;17.15;0.08;0:16.72;103%;(0avgtext+0avgdata 88452maxresident)k;0inputs+128outputs;(0major+27548minor)pagefaults;0swaps
+nuXmv_constMultiplication_006.st;36.54;0.06;0:36.11;101%;(0avgtext+0avgdata 106116maxresident)k;0inputs+160outputs;(0major+39135minor)pagefaults;0swaps
+nuXmv_constMultiplication_007.st;14.87;0.09;0:14.46;103%;(0avgtext+0avgdata 94688maxresident)k;0inputs+128outputs;(0major+30504minor)pagefaults;0swaps
+nuXmv_constMultiplication_008.st;57.03;0.09;0:56.58;100%;(0avgtext+0avgdata 155148maxresident)k;0inputs+160outputs;(0major+39897minor)pagefaults;0swaps
+nuXmv_constMultiplication_009.st;32.46;0.09;0:32.08;101%;(0avgtext+0avgdata 118020maxresident)k;0inputs+160outputs;(0major+35515minor)pagefaults;0swaps
+nuXmv_constMultiplication_010.st;54.39;0.11;0:53.98;100%;(0avgtext+0avgdata 144008maxresident)k;0inputs+168outputs;(0major+41417minor)pagefaults;0swaps
+nuXmv_constMultiplication_011.st;98.36;0.09;1:37.88;100%;(0avgtext+0avgdata 155340maxresident)k;0inputs+192outputs;(0major+40435minor)pagefaults;0swaps
+nuXmv_constMultiplication_012.st;30.41;0.10;0:29.98;101%;(0avgtext+0avgdata 104712maxresident)k;0inputs+128outputs;(0major+35001minor)pagefaults;0swaps
+Command exited with non-zero status 124
+nuXmv_constMultiplication_013.st;100.35;0.08;1:40.01;100%;(0avgtext+0avgdata 243948maxresident)k;0inputs+248outputs;(0major+50704minor)pagefaults;0swaps
+nuXmv_constMultiplication_014.st;91.05;0.10;1:30.62;100%;(0avgtext+0avgdata 226052maxresident)k;0inputs+184outputs;(0major+39214minor)pagefaults;0swaps
+Command exited with non-zero status 124
+nuXmv_constMultiplication_015.st;100.43;0.14;1:40.02;100%;(0avgtext+0avgdata 192748maxresident)k;0inputs+256outputs;(0major+35796minor)pagefaults;0swaps
+nuXmv_constMultiplication_016.st;98.98;0.13;1:38.65;100%;(0avgtext+0avgdata 227800maxresident)k;0inputs+192outputs;(0major+47141minor)pagefaults;0swaps
+Command exited with non-zero status 124
+nuXmv_constMultiplication_017.st;100.40;0.11;1:40.02;100%;(0avgtext+0avgdata 199488maxresident)k;0inputs+256outputs;(0major+52325minor)pagefaults;0swaps
+Command exited with non-zero status 124
+nuXmv_constMultiplication_018.st;100.46;0.13;1:40.02;100%;(0avgtext+0avgdata 234392maxresident)k;0inputs+192outputs;(0major+51524minor)pagefaults;0swaps
+Command exited with non-zero status 124
+nuXmv_constMultiplication_019.st;100.49;0.10;1:40.02;100%;(0avgtext+0avgdata 223384maxresident)k;0inputs+256outputs;(0major+48850minor)pagefaults;0swaps
+Command exited with non-zero status 124
+nuXmv_constMultiplication_020.st;100.38;0.13;1:40.02;100%;(0avgtext+0avgdata 219340maxresident)k;0inputs+256outputs;(0major+46653minor)pagefaults;0swaps
+Command exited with non-zero status 124
+nuXmv_constMultiplication_021.st;100.46;0.15;1:40.02;100%;(0avgtext+0avgdata 227400maxresident)k;0inputs+264outputs;(0major+47635minor)pagefaults;0swaps
+Command exited with non-zero status 124
+nuXmv_constMultiplication_022.st;100.47;0.16;1:40.02;100%;(0avgtext+0avgdata 238360maxresident)k;0inputs+192outputs;(0major+55635minor)pagefaults;0swaps
+Command exited with non-zero status 124
+nuXmv_constMultiplication_023.st;100.41;0.17;1:40.02;100%;(0avgtext+0avgdata 292884maxresident)k;0inputs+256outputs;(0major+66393minor)pagefaults;0swaps
+Command exited with non-zero status 124
+nuXmv_constMultiplication_024.st;100.50;0.11;1:40.02;100%;(0avgtext+0avgdata 226676maxresident)k;0inputs+192outputs;(0major+40602minor)pagefaults;0swaps
+Command exited with non-zero status 124
+nuXmv_constMultiplication_025.st;100.53;0.12;1:40.04;100%;(0avgtext+0avgdata 241532maxresident)k;0inputs+192outputs;(0major+52878minor)pagefaults;0swaps
+Command exited with non-zero status 124
+nuXmv_constMultiplication_026.st;100.38;0.22;1:40.02;100%;(0avgtext+0avgdata 322812maxresident)k;0inputs+256outputs;(0major+85632minor)pagefaults;0swaps
+Command exited with non-zero status 124
+nuXmv_constMultiplication_027.st;100.46;0.14;1:40.02;100%;(0avgtext+0avgdata 270532maxresident)k;0inputs+256outputs;(0major+81609minor)pagefaults;0swaps
+Command exited with non-zero status 124
+nuXmv_constMultiplication_028.st;100.51;0.15;1:40.02;100%;(0avgtext+0avgdata 286692maxresident)k;0inputs+264outputs;(0major+71302minor)pagefaults;0swaps
+Command exited with non-zero status 124
+nuXmv_constMultiplication_029.st;100.45;0.17;1:40.02;100%;(0avgtext+0avgdata 272716maxresident)k;0inputs+256outputs;(0major+83026minor)pagefaults;0swaps
+Command exited with non-zero status 124
+nuXmv_constMultiplication_030.st;100.37;0.14;1:40.02;100%;(0avgtext+0avgdata 275112maxresident)k;0inputs+256outputs;(0major+62589minor)pagefaults;0swaps

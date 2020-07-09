@@ -1,0 +1,4 @@
+identifier;user;system;elapsed;CPU;other Stats;other Stats;other Stats;other Stats
+nuXmv_constMultiplication_101.st;2.23;0.11;0:01.48;157%;(0avgtext+0avgdata 144480maxresident)k;29192inputs+136outputs;(2major+47413minor)pagefaults;0swaps
+nuXmv_constMultiplication_102.st;2.15;0.12;0:01.32;172%;(0avgtext+0avgdata 144216maxresident)k;0inputs+144outputs;(0major+48582minor)pagefaults;0swaps
+nuXmv_constMultiplication_103.st;2.28;0.08;0:01.38;170%;(0avgtext+0avgdata 155372maxresident)k;0inputs+144outputs;(0major+53225minor)pagefaults;0swaps

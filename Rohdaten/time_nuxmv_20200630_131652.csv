@@ -1,0 +1,5 @@
+identifier;user;system;elapsed;CPU;other Stats;other Stats;other Stats;other Stats
+Command exited with non-zero status 1
+nuXmv_MinMax_0001.gtt;0.33;0.03;0:00.22;163%;(0avgtext+0avgdata 58920maxresident)k;0inputs+64outputs;(0major+8289minor)pagefaults;0swaps
+Command exited with non-zero status 1
+nuXmv_MinMax_Minimal_0001.gtt;0.34;0.02;0:00.22;163%;(0avgtext+0avgdata 60916maxresident)k;0inputs+64outputs;(0major+7811minor)pagefaults;0swaps

@@ -1,0 +1,2 @@
+identifier;user;system;elapsed;CPU;other Stats;other Stats;other Stats;other Stats
+nuXmv_MinMax.st;2.26;0.09;0:01.03;229%;(0avgtext+0avgdata 153956maxresident)k;7560inputs+152outputs;(0major+39654minor)pagefaults;0swaps

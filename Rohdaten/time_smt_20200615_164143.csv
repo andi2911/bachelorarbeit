@@ -1,0 +1,5 @@
+identifier;user;system;elapsed;CPU;other Stats;other Stats;other Stats;other Stats
+Command exited with non-zero status 1
+smteta_MinMax.st;0.42;0.06;0:00.37;132%;(0avgtext+0avgdata 65000maxresident)k;0inputs+64outputs;(0major+8815minor)pagefaults;0swaps
+eld-math_MinMax.hcc;1.33;0.04;0:00.69;199%;(0avgtext+0avgdata 113936maxresident)k;0inputs+64outputs;(0major+14846minor)pagefaults;0swaps
+eld-ilp32_MinMax.hcc;1.48;0.06;0:00.76;201%;(0avgtext+0avgdata 121092maxresident)k;0inputs+64outputs;(0major+15195minor)pagefaults;0swaps

@@ -1,0 +1,18 @@
+identifier;user;system;elapsed;CPU;other Stats;other Stats;other Stats;other Stats
+nuXmv_MinMax_0001.gtt;5.22;0.14;0:04.12;130%;(0avgtext+0avgdata 152184maxresident)k;0inputs+112outputs;(0major+41988minor)pagefaults;0swaps
+nuXmv_MinMax_0002.gtt;42.54;0.59;0:41.52;103%;(0avgtext+0avgdata 151992maxresident)k;0inputs+184outputs;(0major+44820minor)pagefaults;0swaps
+nuXmv_MinMax_0003.gtt;43.17;0.73;0:42.40;103%;(0avgtext+0avgdata 140376maxresident)k;0inputs+200outputs;(0major+40143minor)pagefaults;0swaps
+nuXmv_MinMax_0004.gtt;6.13;0.15;0:04.68;134%;(0avgtext+0avgdata 131548maxresident)k;0inputs+120outputs;(0major+38769minor)pagefaults;0swaps
+nuXmv_MinMax_0005.gtt;47.06;0.76;0:46.20;103%;(0avgtext+0avgdata 153536maxresident)k;0inputs+184outputs;(0major+42407minor)pagefaults;0swaps
+nuXmv_MinMax_0010.gtt;11.57;0.22;0:10.50;112%;(0avgtext+0avgdata 143632maxresident)k;0inputs+120outputs;(0major+37993minor)pagefaults;0swaps
+nuXmv_MinMax_0015.gtt;5.52;0.14;0:04.35;130%;(0avgtext+0avgdata 150252maxresident)k;0inputs+120outputs;(0major+41081minor)pagefaults;0swaps
+nuXmv_MinMax_0020.gtt;136.00;1.55;2:16.10;101%;(0avgtext+0avgdata 136632maxresident)k;0inputs+240outputs;(0major+43263minor)pagefaults;0swaps
+nuXmv_MinMax_0025.gtt;23.88;0.39;0:22.93;105%;(0avgtext+0avgdata 146088maxresident)k;0inputs+144outputs;(0major+40366minor)pagefaults;0swaps
+nuXmv_MinMax_0050.gtt;57.12;0.86;0:56.24;103%;(0avgtext+0avgdata 151008maxresident)k;0inputs+248outputs;(0major+47040minor)pagefaults;0swaps
+nuXmv_MinMax_0075.gtt;8.69;0.17;0:07.53;117%;(0avgtext+0avgdata 134772maxresident)k;0inputs+112outputs;(0major+41280minor)pagefaults;0swaps
+nuXmv_MinMax_0100.gtt;144.99;1.50;2:25.03;101%;(0avgtext+0avgdata 136588maxresident)k;0inputs+224outputs;(0major+46894minor)pagefaults;0swaps
+nuXmv_MinMax_0200.gtt;22.52;0.47;0:21.53;106%;(0avgtext+0avgdata 139288maxresident)k;0inputs+216outputs;(0major+38934minor)pagefaults;0swaps
+nuXmv_MinMax_0300.gtt;7.64;0.15;0:06.47;120%;(0avgtext+0avgdata 149660maxresident)k;0inputs+120outputs;(0major+40180minor)pagefaults;0swaps
+nuXmv_MinMax_0400.gtt;10.05;0.17;0:08.72;117%;(0avgtext+0avgdata 138196maxresident)k;0inputs+120outputs;(0major+38252minor)pagefaults;0swaps
+nuXmv_MinMax_0500.gtt;57.52;0.82;0:57.00;102%;(0avgtext+0avgdata 152384maxresident)k;0inputs+192outputs;(0major+43688minor)pagefaults;0swaps
+nuXmv_MinMax_1000.gtt;4.60;0.14;0:03.42;138%;(0avgtext+0avgdata 149192maxresident)k;0inputs+144outputs;(0major+39287minor)pagefaults;0swaps

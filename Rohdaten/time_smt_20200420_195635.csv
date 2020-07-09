@@ -1,0 +1,3 @@
+identifier;user;system;elapsed;CPU;other Stats;other Stats;other Stats;other Stats
+smteta_lr.st;1.61;0.12;0:01.24;139%;(0avgtext+0avgdata 123072maxresident)k;13776inputs+128outputs;(0major+24439minor)pagefaults;0swaps
+eld_lr.hcc;1.15;0.09;0:00.66;185%;(0avgtext+0avgdata 91792maxresident)k;0inputs+64outputs;(0major+9794minor)pagefaults;0swaps

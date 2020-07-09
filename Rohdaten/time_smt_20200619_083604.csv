@@ -1,0 +1,10 @@
+identifier;user;system;elapsed;CPU;other Stats;other Stats;other Stats;other Stats
+smteta_constMultiplication_101.st;1.55;0.13;0:01.10;153%;(0avgtext+0avgdata 104516maxresident)k;18552inputs+144outputs;(0major+16836minor)pagefaults;0swaps
+smteta_constMultiplication_102.st;1.44;0.08;0:00.62;244%;(0avgtext+0avgdata 112440maxresident)k;0inputs+144outputs;(0major+20038minor)pagefaults;0swaps
+smteta_constMultiplication_103.st;1.48;0.03;0:00.60;251%;(0avgtext+0avgdata 100620maxresident)k;0inputs+144outputs;(0major+18782minor)pagefaults;0swaps
+eld-math_t_constMultiplication_101.hcc;4.59;0.15;0:02.15;220%;(0avgtext+0avgdata 272248maxresident)k;49928inputs+64outputs;(0major+27842minor)pagefaults;0swaps
+eld-math_t_constMultiplication_102.hcc;4.79;0.08;0:01.76;277%;(0avgtext+0avgdata 269684maxresident)k;0inputs+64outputs;(0major+33906minor)pagefaults;0swaps
+eld-math_t_constMultiplication_103.hcc;4.40;0.08;0:01.63;275%;(0avgtext+0avgdata 271064maxresident)k;0inputs+64outputs;(0major+29936minor)pagefaults;0swaps
+eld-ilp32_t_constMultiplication_101.hcc;10.79;0.14;0:03.78;289%;(0avgtext+0avgdata 562316maxresident)k;0inputs+64outputs;(0major+34802minor)pagefaults;0swaps
+eld-ilp32_t_constMultiplication_102.hcc;12.54;0.16;0:04.45;284%;(0avgtext+0avgdata 559468maxresident)k;0inputs+96outputs;(0major+38824minor)pagefaults;0swaps
+eld-ilp32_t_constMultiplication_103.hcc;11.13;0.18;0:03.93;287%;(0avgtext+0avgdata 573116maxresident)k;0inputs+64outputs;(0major+38454minor)pagefaults;0swaps

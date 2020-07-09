@@ -1,0 +1,21 @@
+identifier;user;system;elapsed;CPU;other Stats;other Stats;other Stats;other Stats
+smteta_varMultiplication_10.st;0.99;0.06;0:00.51;204%;(0avgtext+0avgdata 84488maxresident)k;0inputs+80outputs;(0major+12065minor)pagefaults;0swaps
+smteta_varMultiplication_1.st;0.77;0.05;0:00.42;195%;(0avgtext+0avgdata 78284maxresident)k;0inputs+72outputs;(0major+11178minor)pagefaults;0swaps
+smteta_varMultiplication_2.st;0.84;0.04;0:00.44;199%;(0avgtext+0avgdata 82980maxresident)k;0inputs+72outputs;(0major+11338minor)pagefaults;0swaps
+smteta_varMultiplication_3.st;0.87;0.05;0:00.45;206%;(0avgtext+0avgdata 82456maxresident)k;0inputs+72outputs;(0major+12233minor)pagefaults;0swaps
+smteta_varMultiplication_4.st;0.86;0.06;0:00.45;206%;(0avgtext+0avgdata 82112maxresident)k;0inputs+80outputs;(0major+11585minor)pagefaults;0swaps
+smteta_varMultiplication_5.st;0.91;0.05;0:00.45;210%;(0avgtext+0avgdata 82824maxresident)k;0inputs+80outputs;(0major+12562minor)pagefaults;0swaps
+smteta_varMultiplication_6.st;0.82;0.06;0:00.45;197%;(0avgtext+0avgdata 79912maxresident)k;0inputs+80outputs;(0major+11017minor)pagefaults;0swaps
+smteta_varMultiplication_7.st;0.90;0.05;0:00.49;193%;(0avgtext+0avgdata 83596maxresident)k;0inputs+80outputs;(0major+11454minor)pagefaults;0swaps
+smteta_varMultiplication_8.st;0.89;0.06;0:00.46;206%;(0avgtext+0avgdata 82932maxresident)k;0inputs+80outputs;(0major+11978minor)pagefaults;0swaps
+smteta_varMultiplication_9.st;0.87;0.04;0:00.45;203%;(0avgtext+0avgdata 81968maxresident)k;0inputs+80outputs;(0major+11621minor)pagefaults;0swaps
+eld_varMultiplication_10.hcc;2.60;0.12;0:01.14;238%;(0avgtext+0avgdata 196192maxresident)k;0inputs+64outputs;(0major+24688minor)pagefaults;0swaps
+eld_varMultiplication_1.hcc;2.12;0.07;0:00.95;231%;(0avgtext+0avgdata 163764maxresident)k;0inputs+64outputs;(0major+21384minor)pagefaults;0swaps
+eld_varMultiplication_2.hcc;2.19;0.08;0:00.97;233%;(0avgtext+0avgdata 164248maxresident)k;0inputs+64outputs;(0major+22699minor)pagefaults;0swaps
+eld_varMultiplication_3.hcc;2.22;0.12;0:01.03;227%;(0avgtext+0avgdata 159464maxresident)k;0inputs+64outputs;(0major+24135minor)pagefaults;0swaps
+eld_varMultiplication_4.hcc;2.23;0.11;0:01.00;233%;(0avgtext+0avgdata 164952maxresident)k;0inputs+64outputs;(0major+22639minor)pagefaults;0swaps
+eld_varMultiplication_5.hcc;2.41;0.08;0:01.02;244%;(0avgtext+0avgdata 174404maxresident)k;0inputs+64outputs;(0major+24347minor)pagefaults;0swaps
+eld_varMultiplication_6.hcc;2.40;0.09;0:01.05;237%;(0avgtext+0avgdata 178764maxresident)k;0inputs+64outputs;(0major+25181minor)pagefaults;0swaps
+eld_varMultiplication_7.hcc;2.43;0.12;0:01.06;240%;(0avgtext+0avgdata 182680maxresident)k;0inputs+64outputs;(0major+26294minor)pagefaults;0swaps
+eld_varMultiplication_8.hcc;2.55;0.06;0:01.07;243%;(0avgtext+0avgdata 186164maxresident)k;0inputs+64outputs;(0major+26352minor)pagefaults;0swaps
+eld_varMultiplication_9.hcc;2.60;0.10;0:01.14;237%;(0avgtext+0avgdata 199024maxresident)k;0inputs+64outputs;(0major+28624minor)pagefaults;0swaps

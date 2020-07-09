@@ -1,0 +1,6 @@
+identifier;user;system;elapsed;CPU;other Stats;other Stats;other Stats;other Stats
+smteta_lr.st;1.45;0.06;0:00.78;195%;(0avgtext+0avgdata 131832maxresident)k;16inputs+136outputs;(0major+26210minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-math_TTable.hcc;136.36;0.38;1:40.01;136%;(0avgtext+0avgdata 522460maxresident)k;0inputs+232outputs;(0major+68270minor)pagefaults;0swaps
+Command exited with non-zero status 124
+eld-ilp32_TTable.hcc;146.68;0.53;1:40.01;147%;(0avgtext+0avgdata 662448maxresident)k;0inputs+168outputs;(0major+91394minor)pagefaults;0swaps
