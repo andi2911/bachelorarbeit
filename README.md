@@ -4,8 +4,8 @@ Dieses Repository enthält die Forschungsdaten und Skripte des Evaluationsteils 
 Im Ordner "Rohdaten" sind die unbearbeiteten Ergebnisse meiner Evaluationsdurchführungen.
 Im Ordner "Eval_Ergebnisse" sind die aufbereiteten Ergebnisse, in der Form wie sie in der BAchelorarbeit zu finden sind (inkl. Median, Minimum, Maximum, ...)
 
+
 Im Ordner "evaluation" sind alle Skripte, die zur Durchführung der Evaluation benötigt wurden.
-Außerdem ist dort die verwendete Versionen vom Model-Checker nuXmv (1.1.1). ELDARICA (2.0.2) ist auf https://github.com/uuverifiers/eldarica zu finden.
 
 Die Skripte ConstAddition.sh, ConstDivision.sh, ConstMultiplication.sh, VarAddition.sh, VarDivision.sh und VarMultiplication.sh sind Generator-Skripte für die jeweilige Arithmetik.
 Sie erzeugen genau ein Paar aus ST-Programm und GTT.
@@ -25,3 +25,7 @@ Die callEval*.sh Skripte führen für die jeweilige Kategorie die Evaluation (in
 Für die Arithmetik mit Konstanten können hier die Seeds der Pseudozufallszahlen geändert werden.
 
 
+Außerdem sind in diesem Repository die verwendete Versionen von nuXmv, ELDARICA und der verifaps-lib zu finden.
+Hashwerte zum Zeitpunkt der Abgabe (13.07.2020):
+ELDARICA: 409d2dffd5193664052302c9f86b2f151ea874f1
+verifaps-lib: 2da339e0a32489eaaa49178bcfecea22cf7a42f7
